@@ -7,6 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import utilities.Driver;
 
 public class LoginPage {
+	
 	@FindBy (id = "txtUsername")
 	public WebElement usernameBox;
 	

@@ -17,7 +17,7 @@ import cucumber.api.junit.Cucumber;
 		glue = "step_Definition",
 		dryRun =  false,
 		monochrome = true,
-		tags = "@negativeTest" )
+		tags = "" )
 	
 
 
